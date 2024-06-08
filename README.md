@@ -2,6 +2,10 @@
 
 NACASMesher is a fork of the project curiosityFluidsAirfoilMesher.
 
+---
+
+## Description
+
 The project consists in a script for generating blockMeshDict files, for OpenFOAM, of NACA 4-digit series airfoils, based on the required parameters.
 
 This project adds, internally to the code, the generation of points for a given selected NACA 4-digit series airfoil.
