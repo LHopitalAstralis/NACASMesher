@@ -7,5 +7,5 @@ The project consists in a script for generating blockMeshDict files, for OpenFOA
 This project adds, internally to the code, the generation of points for a given selected NACA 4-digit series airfoil.
 This generation of points avoid the need for the importing of external .dat files. This was the case in the original project.
 
-The generation of the mesh is modified from the one in curiosityFluidAirfoilMesher to a generation based on the project by Thien Phan. 
-Available in: https://www.phanquocthien.org/mesh-geometry/blockmesh/airfoil 
+The generation of the mesh is modified from the one in the curiosityFluidAirfoilMesher to a generation based on the project by Thien Phan. 
+Available at: https://www.phanquocthien.org/mesh-geometry/blockmesh/airfoil 
