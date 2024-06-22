@@ -2,7 +2,7 @@
 
 NACASMesher is a fork of the project curiosityFluidsAirfoilMesher.
 
-![alt text](https://github.com/LHopitalAstralis/NACASMesher/blob/master/Grid%20Example.png?raw=true | width = 100)
+![alt text](https://github.com/LHopitalAstralis/NACASMesher/blob/master/Grid%20Example.png?raw=true | width=100)
 
 ## Description
 
