@@ -14,3 +14,6 @@ This generation of points avoid the need for the importing of external .dat file
 
 The generation of the mesh is modified from the one in the curiosityFluidAirfoilMesher to a generation based on the project by Thien Phan. 
 Available at: https://www.phanquocthien.org/mesh-geometry/blockmesh/airfoil 
+
+
+![alt text](https://github.com/LHopitalAstralis/NACASMesher/blob/master/Grid%20Example.png?raw=true)
