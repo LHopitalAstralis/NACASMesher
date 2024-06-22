@@ -2,7 +2,7 @@
 
 NACASMesher is a fork of the project curiosityFluidsAirfoilMesher.
 
----
+![alt text](https://github.com/LHopitalAstralis/NACASMesher/blob/master/Grid%20Example.png?raw=true | width = 100)
 
 ## Description
 
@@ -16,4 +16,4 @@ The generation of the mesh is modified from the one in the curiosityFluidAirfoil
 Available at: https://www.phanquocthien.org/mesh-geometry/blockmesh/airfoil 
 
 
-![alt text](https://github.com/LHopitalAstralis/NACASMesher/blob/master/Grid%20Example.png?raw=true)
+
